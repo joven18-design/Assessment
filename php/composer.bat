@@ -1,2 +1,2 @@
 @echo off
-"C:\test\php\php.exe" "C:\test\php\composer.phar" %*
+C:\wamp64\bin\php\php8.4.15\php.exe C:\Assessment\php\composer.phar %*
